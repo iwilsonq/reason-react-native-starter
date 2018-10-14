@@ -1,0 +1,21 @@
+# ninja log v5
+0	74	1539559037	src/App.mlast	dbebd3fc64f6fa4e
+74	82	1539559037	src/App.mlast.d	61ea450f13af31d3
+0	34	1539559037	src/App.cmj	1678f9d5a4078eda
+0	34	1539559037	/Users/wilsoni/ui-workspace/ReasonReactNative/src/App.js	1678f9d5a4078eda
+0	34	1539559037	src/App.cmi	1678f9d5a4078eda
+0	110	1539559537	src/App.mlast	dbebd3fc64f6fa4e
+110	157	1539559537	src/App.mlast.d	61ea450f13af31d3
+0	39	1539559537	src/App.cmj	1678f9d5a4078eda
+0	39	1539559537	/Users/wilsoni/ui-workspace/ReasonReactNative/src/App.js	1678f9d5a4078eda
+0	39	1539559537	src/App.cmi	1678f9d5a4078eda
+0	88	1539559554	src/App.mlast	dbebd3fc64f6fa4e
+88	96	1539559554	src/App.mlast.d	61ea450f13af31d3
+0	34	1539559554	src/App.cmj	1678f9d5a4078eda
+0	34	1539559554	/Users/wilsoni/ui-workspace/ReasonReactNative/src/App.js	1678f9d5a4078eda
+0	34	1539559554	src/App.cmi	1678f9d5a4078eda
+0	100	1539559576	src/App.mlast	dbebd3fc64f6fa4e
+100	108	1539559576	src/App.mlast.d	61ea450f13af31d3
+0	32	1539559576	src/App.cmj	1678f9d5a4078eda
+0	32	1539559576	/Users/wilsoni/ui-workspace/ReasonReactNative/src/App.js	1678f9d5a4078eda
+0	32	1539559576	src/App.cmi	1678f9d5a4078eda
