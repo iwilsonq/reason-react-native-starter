@@ -8,7 +8,7 @@ It is essentially a from scratch `react-native init <projectName>` setup. It als
 - `reason-react`
 - `bs-react-native`
 
-# Installation
+## Installation
 
 You'll need xcode or the android simulator in order to run a React Native project. You will also need to install the React Native CLI if you haven't already.
 
@@ -26,6 +26,8 @@ You'll need xcode or the android simulator in order to run a React Native projec
   # Wait for the simulator to get set up, then check it out!
 ```
 
+When your app opens in the simulator, you can enable live reloading by entering CMD+D and selecting "Enable Live Reload"
+
 ## Constructing from Scratch
 
-See this [post at blog.callstack.io](https://blog.callstack.io/getting-started-with-reasonml-and-react-native-299476389c3e) by [Mateusz Zatorski](https://github.com/knowbody)
+If you're interested in how to set this up from scratch [post on Callstack's blog](https://blog.callstack.io/getting-started-with-reasonml-and-react-native-299476389c3e) by [Mateusz Zatorski](https://github.com/knowbody)
